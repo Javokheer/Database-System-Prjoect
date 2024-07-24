@@ -44,4 +44,3 @@ It is assumed that Retail Store number of branches in different  locations. In o
 ## Authors
 
 - [@javokheer](https://github.com/Javokheer)
-- [@gavrielowens](https://www.github.com)
