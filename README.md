@@ -4,7 +4,7 @@
 **Database Design**
 
 Retail Store Management Database System captures changes  specifically in human resources.
-It is assumed that Retail Store number of branches in different  locations. In our case, the branch is regarded as a retail store and its  office.
+It is assumed that the Retail Store has a number of branches in different  locations. In our case, the branch is regarded as a retail store and its  office.
 
 
 
