@@ -1,10 +1,11 @@
 
 
 # Retail Store Management Database System
-**Database Design**
+
 
 ![image](https://github.com/Javokheer/Database-System-Project/blob/ab6c6d81c7dfa160790cd3911652ae3d219e82b2/StoreImg.jpg)
 
+**Database Design**
 Retail Store Management Database System captures changes  specifically in human resources.
 It is assumed that the Retail Store has a number of branches in different  locations. In our case, the branch is regarded as a retail store and its  office.
 
